@@ -1,0 +1,14 @@
+{
+  "id": "mcmadhatter.sphere-lwrf",
+  "name": "sphere-lwrf",
+  "version": "0.0.1",
+  "description": "Ninja Sphere - LightwaveRF Wifilink driver",
+  "main": "sphere-lwrf",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mcmadhatter aka jmg213 https://github.com/mcmadhatter",
+  "license": "MIT",
+  "topics": {},
+  "maxMemory": 10
+}
